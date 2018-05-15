@@ -13,7 +13,6 @@
 | lineItems | Array | Collection of POS line items sold for this transaction |
 
 {% hint style="info" %}
-
 **LineItems Array**: a collection of product items that were sold for a specific customer transaction. This listing typically contains POS line item information, but may also be augmented with richer e-commerce date.
 
 * itemId \(or POS SKU\)
@@ -22,4 +21,5 @@
 * imageUrl
 * name
 * shortDescription
+{% endhint %}
 
