@@ -17,6 +17,7 @@
 
 * label
 * options: \[ { name, id, path, selected  } \]
+{% endhint %}
 
 {% hint style="info" %}
 
@@ -25,6 +26,7 @@
 * **pageSize**:  number of products to return per page
 * **totalItems**: total number of products in ProductList
 * **startItem**:  integer location of first product \(zero-index based\)
+{% endhint %}
 
 {% hint style="info" %}
 
@@ -32,4 +34,4 @@
 
 * fieldName:  field name used to sort ProductList
 * type: sort type, ASC or DESC
-
+{% endhint %}
