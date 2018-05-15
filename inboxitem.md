@@ -22,17 +22,17 @@ description: Represents the actual email inside of an inbox
 | hasAttachments | Boolean | If the email has attachments or not |
 
 {% hint style="info" %}
+
 **EmailAddress Object**
 
 * email: String \( Ex: rbrown@madmobile.com \)
 * display: String \( Ex: Randy Brown \)
-{% endhint %}
 
 {% hint style="info" %}
+
 **Thread Object**
 
 * id: String
 * topic: String
 * index: String
-{% endhint %}
 

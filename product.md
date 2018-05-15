@@ -30,9 +30,9 @@ v**ariantAttributes array: **a collection of objects that represent possible var
 {% endhint %}
 
 {% hint style="info" %}
+
 v**ariantValues** **array**: contains a collection of variant ids and values that have been set for a master product.
 
 * id 
 * value
-{% endhint %}
 
