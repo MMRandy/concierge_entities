@@ -30,9 +30,9 @@
 {% endhint %}
 
 {% hint style="info" %}
-
 **Variant\_Values** **array**: contains a collection of variant ids and values that have been set for a master product.
 
 * id 
 * value
+{% endhint %}
 
