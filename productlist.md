@@ -13,23 +13,19 @@
 
 {% hint style="info" %}
 **Refinements Object: **holds specific properties that allow the ProductList to be further refined or filtered.
-
 * label
 * options: \[ { name, id, path, selected  } \]
 {% endhint %}
 
 {% hint style="info" %}
 **Pager Object**: holds specific properties that allow the ProductList to be paged.
-{% endhint %}
-
 * **pageSize**:  number of products to return per page
 * **totalItems**: total number of products in ProductList
 * **startItem**:  integer location of first product \(zero-index based\)
+{% endhint %}
 
-
-
+{% hint style="info" %}
 **Sorter** **Object**: holds specific properties that allow the ProductList to be sorted.
-
 * fieldName:  field name used to sort ProductList
 * type: sort type, ASC or DESC
-
+{% endhint %}
