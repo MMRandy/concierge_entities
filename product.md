@@ -6,8 +6,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | id | String | The id of the product or variant. |
 | name | String | Display name of the product |
-| short\_description | String | A short description of the product |
-| long\_description | String | Detailed description of the product, the features, package contents, etc. with required formatting |
+| shortDescription | String | A short description of the product |
+| longDescription | String | Detailed description of the product, the features, package contents, etc. with required formatting |
 | type | String | Indicates the type of product \('master', 'item', 'variant\_group', 'variant', 'bundle', 'set'\) |
 | variant\_attributes | Array | The sorted array of variant attributes assigned to the product. This is applicable for product type "master" and "variant". |
 | variant\_values | Array | The variant values selected for the product in variant attribute id and value pairs. This is applicable for product types "variant" and "variation\_group" only. |
