@@ -10,5 +10,3 @@
 | lastName | string | Last name of the user. |
 | roleCode | string | Code for the user's main role for the store. |
 
-
-

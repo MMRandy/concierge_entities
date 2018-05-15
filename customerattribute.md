@@ -9,5 +9,3 @@
 | value | String |  |
 | type | String |  |
 
-
-

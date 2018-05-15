@@ -1,6 +1,6 @@
 # ProductList
 
-> The ProductList entity represents a collection of related product objects.  This collection can typically be sorted, paged, and refined.
+> The ProductList entity represents a collection of related product objects. This collection can typically be sorted, paged, and refined.
 
 | **Field** | **Type** | **Description** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -19,7 +19,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-**Pager Object**:  holds specific properties that allow the ProductList to be paged.
+**Pager Object**: holds specific properties that allow the ProductList to be paged.
 
 * pageSize:  number of products to return per page
 * totalItems: total number of products in ProductList
@@ -32,11 +32,4 @@
 * fieldName:  field name used to sort ProductList
 * type: sort type, ASC or DESC
 {% endhint %}
-
-  
-
-
-
-
-
 

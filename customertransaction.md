@@ -1,6 +1,6 @@
 # CustomerTransaction
 
-> The CustomerTransaction object represents a prior sales transaction for the customer.  This transaction could be either an e-commerce or store sales transaction.
+> The CustomerTransaction object represents a prior sales transaction for the customer. This transaction could be either an e-commerce or store sales transaction.
 
 | **Field** | **Type** | **Description** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,8 @@
 | lineItems | Array | Collection of POS line items sold for this transaction |
 
 {% hint style="info" %}
-**LineItems Array**:  a collection of product items that were sold for a specific customer transaction.  This listing typically contains POS line item information, but may also be augmented with richer e-commerce date.
+
+**LineItems Array**: a collection of product items that were sold for a specific customer transaction. This listing typically contains POS line item information, but may also be augmented with richer e-commerce date.
 
 * itemId \(or POS SKU\)
 * unitPrice
@@ -21,7 +22,4 @@
 * imageUrl
 * name
 * shortDescription
-{% endhint %}
-
-
 

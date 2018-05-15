@@ -12,5 +12,3 @@
 | ratingRange | Integer | The range for the rating. |
 | submissionTime | Datetime | The date/time of the submission of the review. |
 
-
-

@@ -10,6 +10,6 @@
 | values | Array | A collection of values specific to this attribute. |
 
 {% hint style="info" %}
-**Value Array**:  a listing of possible values for the product variant attribute.  For example, if a variant attribute was "color", this array would potentially hold "red", "blue", and "green".
+**Value Array**: a listing of possible values for the product variant attribute. For example, if a variant attribute was "color", this array would potentially hold "red", "blue", and "green".
 {% endhint %}
 
