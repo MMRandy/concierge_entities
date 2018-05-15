@@ -28,6 +28,8 @@ description: Represents the actual email inside of an inbox
 * email: String \( Ex: rbrown@madmobile.com \)
 * display: String \( Ex: Randy Brown \)
 
+{% endhint %}
+
 {% hint style="info" %}
 
 **Thread Object**
@@ -36,3 +38,4 @@ description: Represents the actual email inside of an inbox
 * topic: String
 * index: String
 
+{% endhint %}
