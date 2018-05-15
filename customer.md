@@ -14,23 +14,22 @@
 | customerSince | Date | Date of customer creation |
 
 {% hint style="info" %}
-
 **EmailAddress Object**
 
 * email: String \( Ex: rbrown@madmobile.com \)
 * display: String \( Ex: Randy Brown \)
 * primary: Boolean
+{% endhint %}
 
 {% hint style="info" %}
-
 **Phone Object**
 
 * number: String
 * type: String \(Mobile, Home, Work, etc\)
 * isPrimary: Boolean
+{% endhint %}
 
 {% hint style="info" %}
-
 **Address Object**
 
 * street: String
@@ -38,11 +37,12 @@
 * state: String
 * zip: String
 * country: String
+{% endhint %}
 
 {% hint style="info" %}
-
 **Preference Object**
 
 * contactType: String \(Text, Phone, Email, etc\)
 * permission: Boolean
+{% endhint %}
 
