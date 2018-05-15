@@ -1,4 +1,4 @@
 # Table of contents
 
-* [concierge\_entities](README.md)
+* [Concierge Entities](README.md)
 
