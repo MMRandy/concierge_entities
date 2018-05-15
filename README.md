@@ -1,4 +1,4 @@
-# Concierge\_Entities
+# Concierge Entities
 
 Entity Documentation for Concierge Associate
 
