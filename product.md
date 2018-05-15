@@ -36,3 +36,4 @@ v**ariantValues** **array**: contains a collection of variant ids and values tha
 * id 
 * value
 
+{% endhint %}
