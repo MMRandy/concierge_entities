@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Concierge Entities](README.md)
+* [Entities Definitions for Concierge](README.md)
 * [Category](category.md)
 * [ProductList](productlist.md)
 * [Product](product.md)
