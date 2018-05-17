@@ -26,14 +26,13 @@
 | masterId | String | If this is a product variant, this value holds the associated master product id. |
 
 {% hint style="info" %}
-v**ariantAttributes array: **a collection of objects that represent possible variations on the master product object, i.e. "color", "size", etc. The objects in this array are of type [ProductVariantAttribute](productvariantattribute.md). Only products of type "master" and "variant" will contain this property.
+v**ariantAttributes array:** a collection of objects that represent possible variations on the master product object, i.e. "color", "size", etc. The objects in this array are of type [ProductVariantAttribute](productvariantattribute.md). Only products of type "master" and "variant" will contain this property.
 {% endhint %}
 
 {% hint style="info" %}
-
 v**ariantValues** **array**: contains a collection of variant ids and values that have been set for a master product.
 
 * id 
 * value
-
 {% endhint %}
+
