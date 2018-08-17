@@ -3,7 +3,7 @@
 > The Category object represents a named grouping of related products. Each Category can represent a collection of products or a collection of child Categories. Categories are typically organized in a nested, hierarchical structure that and form the basis of navigating a company's products.
 
 | **Field** | **Type** | **Description** |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | label | String | Short description of item. |
 | id | String | Unique id for menu item. |
 | subCategories | Array | Array of Category objects. |

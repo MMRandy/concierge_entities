@@ -3,7 +3,7 @@
 > The CustomerTransaction object represents a prior sales transaction for the customer. This transaction could be either an e-commerce or store sales transaction.
 
 | **Field** | **Type** | **Description** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | id | String | Unique identifier for customer transaction. |
 | storeId | String | The store id where the transaction occurred. |
 | transactionDate | DateTime | Date of Transaction. |

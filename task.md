@@ -1,7 +1,7 @@
 # Task
 
 | **Field** | **Type** | **Description** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | id | String | Primary key |
 | title | String | Title of the note |
 | description | String | Contains a text description of the task.type |

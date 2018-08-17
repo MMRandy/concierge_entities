@@ -5,7 +5,7 @@ description: Used by associates to store notes about the customer.
 # Note
 
 | **Field** | **Type** | **Description** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | id | String | Primary key |
 | title | String | Title of the note |
 | body | String | Body of the note |

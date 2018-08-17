@@ -3,7 +3,7 @@
 > The Product object holds information related to a specific item for sale by a company. A product can be of type 'item', 'master', or 'variant'.
 
 | **Field** | **Type** | **Description** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | id | String | The id of the product or variant. |
 | name | String | Display name of the product |
 | shortDescription | String | A short description of the product |

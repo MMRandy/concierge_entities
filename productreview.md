@@ -3,7 +3,7 @@
 > The ProductReview entity holds rating and review information for a product.
 
 | **Field** | **Type** | **Description** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | id | String | Unique identifier for the review |
 | title | String | The title of the review. |
 | reviewer | String | The name of the reviewer. |

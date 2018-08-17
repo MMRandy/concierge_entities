@@ -3,7 +3,7 @@
 > The ProductList entity represents a collection of related product objects. This collection can typically be sorted, paged, and refined.
 
 | **Field** | **Type** | **Description** |
-| --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | id | String | Unique identifier of product category. |
 | title | String | Title of product category. |
 | products | Array | Collection of [Product](product.md) objects. |

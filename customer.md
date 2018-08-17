@@ -1,7 +1,7 @@
 # Customer
 
 | **Field** | **Type** | **Description** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | id | String | primary key |
 | firstName | String | First name of customer |
 | middleName | String | Middle name or initial of customer |

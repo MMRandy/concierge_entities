@@ -5,7 +5,7 @@ description: Represents the actual email inside of an inbox
 # InboxItem
 
 | **Field** | **Type** | **Description** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | id | String | Email id |
 | changeKey | String | Used to keep track of the state of an email |
 | subject | String | Subject of email |
