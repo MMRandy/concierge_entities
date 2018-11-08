@@ -6,6 +6,7 @@
 * [Product](product.md)
 * [ProductVariantAttribute](productvariantattribute.md)
 * [ProductReview](productreview.md)
+* [CustomerList](customerlist.md)
 * [Customer](customer.md)
 * [CustomerAttribute](customerattribute.md)
 * [CustomerGroup](customergroup.md)
