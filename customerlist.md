@@ -10,19 +10,19 @@ description: >-
 
 | **Field** | **Type** | **Description** |
 | :--- | :--- | :--- |
-| id | String | Unique identifier of product category. |
-| title | String | Title of product category. |
+| id | String | Unique identifier of customer list. |
+| title | String | Title of customer list. |
 | customers | Array | Collection of [Customer](customer.md) objects. |
-|  |  |  |
-| pager | Object | Object that controls product category paging . |
-| sorter | Object | Object that control paging through the products array |
+| pager | Object | Object that controls customer list paging . |
+| sorter | Object | Object that control sorting through the customer list |
 
 {% hint style="info" %}
 **Pager Object**: holds specific properties that allow the CustomerList to be paged.
 
-* **pageSize**:  number of products to return per page
-* **totalItems**: total number of products in CustomerList
-* **startItem**:  integer location of first product \(zero-index based\)
+* **pageSize**:  number of customers to return per page
+* **totalItems**: total number of customers in CustomerList
+* **startItem**:  integer location of first customers \(zero-index based\)
+* **nextPageUrl**: Some systems provide a simple url to get next set of batched results
 {% endhint %}
 
 
